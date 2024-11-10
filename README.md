@@ -1,5 +1,3 @@
-Certainly! Here’s the README in `.md` format so you can copy it directly.
-
 ---
 
 # LLaMA RAG Model with Meta's LLaMA Model
