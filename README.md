@@ -1,6 +1,6 @@
 ---
 
-# LLaMA RAG Model with Meta's LLaMA Model
+# RAG Model with Meta's LLaMA Model
 
 WORK IN PROGRESS - Only notebooks 1 and 2 have been tested
 
